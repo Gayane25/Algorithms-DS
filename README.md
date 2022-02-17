@@ -7,3 +7,5 @@
 | 4211133   | false      |
 | 7791      | true       |
 | 5         | true       |
+
+[solution is here](https://github.com/Gayane25/Algorithms-DS/blob/master/ifOddTrue.js)
