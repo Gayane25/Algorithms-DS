@@ -10,6 +10,16 @@
 
 [solution is here](https://github.com/Gayane25/Algorithms-DS/blob/master/ifOddTrue.js)
 
+3. Given an array of numbers which is almost sorted in ascending order. Find the index
+   where sorting order is violated.
+
+| ### Input                 | ### Output |
+| :------------------------ | :--------- |
+| [2, 12, 15, 48, 64]       | -1         |
+| [-9, -4, -4, 3, 12, 4, 5] | 5          |
+
+[solution is here](https://github.com/Gayane25/Algorithms-DS/blob/master/violatedSortingOrder.js)
+
 5. Given an array of nested arrays. Write a recursive function that flattens it. (Hint create
    function that concats arrays).
 
