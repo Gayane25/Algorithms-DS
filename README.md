@@ -31,7 +31,7 @@
 [solution is here](https://github.com/Gayane25/Algorithms-DS/blob/master/flattensArr.js)
 
 6. Given an array and a number N. Write a recursive function that rotates an array N
-   places to the left. (Hint: to add element to the beginning use `javascript arr.unshift()`)
+   places to the left. (Hint: to add element to the beginning use ` arr.unshift()`)
 
 | ### Input                                   | ### Output                               |
 | :------------------------------------------ | :--------------------------------------- |
