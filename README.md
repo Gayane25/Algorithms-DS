@@ -29,3 +29,13 @@
 | [14, [1, [[[3, []]], 1], 0]] | [14, 1, 3, 1, 0]    |
 
 [solution is here](https://github.com/Gayane25/Algorithms-DS/blob/master/flattensArr.js)
+
+6. Given an array and a number N. Write a recursive function that rotates an array N
+   places to the left. (Hint: to add element to the beginning use `javascript arr.unshift()`)
+
+| ### Input                                   | ### Output                               |
+| :------------------------------------------ | :--------------------------------------- |
+| [‘a’, ‘b’, ‘c’, ‘d’, ‘e’, ‘f’, ‘g’, ‘h’] ,3 | [‘d’, ‘e’, ‘f’, ‘g’, ‘h’, ‘a’, ‘b’, ‘c’] |
+| [‘a’, ‘b’, ‘c’, ‘d’, ‘e’, ‘f’, ‘g’, ‘h’] -2 | [‘g’, ‘h’, ‘a’, ‘b’, ‘c’, ‘d’, ‘e’, ‘f’] |
+
+[solution is here](https://github.com/Gayane25/Algorithms-DS/blob/master/rotateToLeft.js)
